@@ -1,0 +1,11 @@
+{
+  "name": "ensto-influxdb-bridge",
+  "version": "0.0.1",
+  "description": "Send data from ensto-bt-thermostat-reader output to InfluxDB",
+  "main": "index.js",
+  "author": "tuomas.salo@iki.fi",
+  "license": "MIT",
+  "dependencies": {
+    "@influxdata/influxdb-client": "1.21.0"
+  }
+}
